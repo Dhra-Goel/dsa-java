@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursionp3/PlaceTiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursionp3/WaysToInvite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +39,12 @@
     "Application.MoveXAtEnd.executor": "Run",
     "Application.PathToMoveInMaze.executor": "Run",
     "Application.PermutationOfString.executor": "Run",
+    "Application.PlaceTiles.executor": "Run",
     "Application.RemoveDuplicate.executor": "Run",
     "Application.SubsequenceOfString.executor": "Run",
     "Application.TOH.executor": "Run",
     "Application.UniqueSubseqOfString.executor": "Run",
+    "Application.WaysToInvite.executor": "Run",
     "Application.reverseString.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
