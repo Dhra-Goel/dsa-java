@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursionp2/ArraySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursionp2/MoveXAtEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
   "keyToString": {
     "Application.ArraySorted.executor": "Run",
     "Application.FrstNLastOccurance.executor": "Run",
+    "Application.MoveXAtEnd.executor": "Run",
     "Application.TOH.executor": "Run",
     "Application.reverseString.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
