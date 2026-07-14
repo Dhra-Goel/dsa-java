@@ -16,7 +16,7 @@ public class PermutationOfString {
 
             //ab jaa rha h bc as string or ans me h 'a'
             perm(newStr, permutedStr+curr);
-            //ye bc vapis jaegi perm me or fir and me add hojaenge ek ek krke alg alg sequence me
+            //ye bc vapis jaegi perm me or fir and me add hojaenge ek ek krke alg alg sequence me and this will happen again and again
         }
     }
 
