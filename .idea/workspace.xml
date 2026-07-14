@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursionp2/reverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsa-java/TOH.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursionp2/TOH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursionp2/TOH.java" afterDir="false" />
-    </list>
+    <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
