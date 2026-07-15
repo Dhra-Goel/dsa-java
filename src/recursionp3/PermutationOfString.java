@@ -1,5 +1,5 @@
 public class PermutationOfString {
-
+    //it uses backtracking
     public static void perm(String str, String permutedStr){
         if(str.length()==0){
             System.out.println(permutedStr);
