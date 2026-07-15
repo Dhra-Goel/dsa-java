@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursionp3/SubsetsOfSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/NQueen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     "Application.PlaceTiles.executor": "Run",
     "Application.RemoveDuplicate.executor": "Run",
     "Application.SubsequenceOfString.executor": "Run",
+    "Application.SubsetsOfSet.executor": "Run",
     "Application.TOH.executor": "Run",
     "Application.UniqueSubseqOfString.executor": "Run",
     "Application.WaysToInvite.executor": "Run",
