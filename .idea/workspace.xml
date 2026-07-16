@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sortings/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sortings/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortings/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
     "Application.PathToMoveInMaze.executor": "Run",
     "Application.PermutationOfString.executor": "Run",
     "Application.PlaceTiles.executor": "Run",
+    "Application.QuickSort.executor": "Run",
     "Application.RemoveDuplicate.executor": "Run",
     "Application.SubsequenceOfString.executor": "Run",
     "Application.SubsetsOfSet.executor": "Run",
