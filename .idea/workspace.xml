@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Sortings/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortings/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sortings/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sortings/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
