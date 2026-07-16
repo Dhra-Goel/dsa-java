@@ -1,5 +1,5 @@
 public class MergeSort {
-
+    //O(n)
     public static void conquer(int[] arr, int si, int mid, int ei){
         int[] merger = new int[ei-si+1];
 
@@ -28,6 +28,7 @@ public class MergeSort {
             arr[j] = merger[i];
     }
 
+    //O(logn)
     public static void divide(int[] arr, int si, int ei){
         if(si>=ei)
             return;
@@ -38,7 +39,7 @@ public class MergeSort {
         divide(arr, mid+1, ei);
         conquer(arr, si, mid, ei);
     }
-
+    //O(nlogn)
     public static void main(String[] args) {
         int[] arr = {9,3,6,5,2,8};
         divide(arr, 0, arr.length-1);

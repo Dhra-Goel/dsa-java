@@ -46,3 +46,6 @@ public class QuickSort {
             System.out.print(a);
     }
 }
+
+//avg case : O(nlogn)
+//worst case : n^2 (it occurs when pivot is always the smallest or the largest element --> fully sorted array either in ascending or descending)
