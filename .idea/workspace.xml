@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backtracking/LC_37_SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sortings/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backtracking/NQueens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,28 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArraySorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrstNLastOccurance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KeypadCombination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveXAtEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PathToMoveInMaze.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PermutationOfString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlaceTiles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubsequenceOfString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubsetsOfSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TOH.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniqueSubseqOfString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WaysToInvite.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseString.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArraySorted.executor": "Run",
+    "Application.FrstNLastOccurance.executor": "Run",
+    "Application.KeypadCombination.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MoveXAtEnd.executor": "Run",
+    "Application.PathToMoveInMaze.executor": "Run",
+    "Application.PermutationOfString.executor": "Run",
+    "Application.PlaceTiles.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
+    "Application.SubsequenceOfString.executor": "Run",
+    "Application.SubsetsOfSet.executor": "Run",
+    "Application.TOH.executor": "Run",
+    "Application.UniqueSubseqOfString.executor": "Run",
+    "Application.WaysToInvite.executor": "Run",
+    "Application.reverseString.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />

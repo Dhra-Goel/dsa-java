@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/backtracking" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/recursionp2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/recursionp3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Sortings" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
