@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class ArrayLists {
+ class ArrayLists {
 
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
@@ -41,3 +41,9 @@ public class ArrayLists {
         System.out.println(list);
     }
 }
+
+//for arrayList
+//Insertion : O(n)
+//Search : O(1)
+
+//while for linked list it is opposite.

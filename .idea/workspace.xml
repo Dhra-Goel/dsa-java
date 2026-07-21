@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6daff002-bb47-4e66-9a98-022bfa91480a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/LLInBuilt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lists/LinkedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dsa-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dsa-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lists/ArrayLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayLists.executor": "Run",
     "Application.ArraySorted.executor": "Run",
     "Application.FrstNLastOccurance.executor": "Run",
     "Application.KeypadCombination.executor": "Run",
+    "Application.LList.executor": "Run",
     "Application.MergeSort.executor": "Run",
     "Application.MoveXAtEnd.executor": "Run",
     "Application.PathToMoveInMaze.executor": "Run",
@@ -61,6 +65,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lists" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
