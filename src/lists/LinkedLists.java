@@ -140,3 +140,4 @@ class LinkedLists {
 //Search : O(n)
 
 //while for  arraylist it is opposite.
+
