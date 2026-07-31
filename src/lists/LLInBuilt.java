@@ -1,3 +1,4 @@
+import java.util.Collections;
 import java.util.LinkedList;
 
 public class LLInBuilt {
@@ -25,6 +26,12 @@ public class LLInBuilt {
         System.out.println(list);
         list.removeLast();
         System.out.println(list);
+
+
+        //reversing a list using collections method
+        Collections.reverse(list);
+        System.out.println(list);
+
 
     }
 
